@@ -16,6 +16,29 @@ Testing: JUnit, pytest
 
 Developer Tools: Git, GitHub, Docker
 
+## ⚡ Featured Projects
+
+### UberAte – Food Delivery Application
+A collaborative food delivery application featuring RESTful APIs, user authentication, role-based access control, and cart and order management.
+
+**Technologies:** Python, FastAPI, Pydantic, pytest, JSON
+
+[View Repository](https://github.com/SamuellBueno/COSC310_Group1_UberAte)
+
+### Workout Tracker
+An object-oriented Java application for tracking workouts, exercises, sets, repetitions, and weights, with persistent JSON storage.
+
+**Technologies:** Java, JUnit, JSON
+
+[View Repository](https://github.com/JessBeggz/COSC210)
+
+### Girls in Tech – Website Prototype
+A mock website designed and developed for UBCO Girls in Tech club.
+
+**Technologies:** HTML, CSS
+
+[View Repository](https://github.com/JessBeggz/mock-girlsintech-website) | [Live Demo](https://jessbeggz.github.io/mock-girlsintech-website/index.html)
+
 ## 🤝 Connect with Me
 
 I'm always open to making new connections and learning from others in the technology community, so feel free to reach out!
